@@ -1,4 +1,4 @@
-The Power BI report uses the same TP02 HIGGS CSV: 11,000,000 rows and 29 numeric columns, with no missing values.  
+The [Power BI report](https://github.com/ggdh17934/TP03-Maaloul/releases/tag/v1.0.0) uses the same TP02 HIGGS CSV: 11,000,000 rows and 29 numeric columns, with no missing values.  
 Power Query removes 278,698 exact duplicate rows identified by the full-row audit, leaving 10,721,302 records with readable column names.  
 Signal events total 5,829,123 (54.37%), compared with 4,892,179 background events (45.63%).  
 Mean lepton pT is lower for signal (0.966) than for background (1.021), in dataset units.  
